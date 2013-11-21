@@ -1,5 +1,5 @@
 # Group: Charles
 
-print "help me class"
-print "I;"
 
+print "help me class"
+print "BAMBAM"
